@@ -1,0 +1,24 @@
+# chapter 1 자연어처리의 기본
+
+
+
+### 1.1 자연어처리란
+
+
+
+자연어처리 natural language processing, NLP : 컴퓨터가 자연어를 이해하거나 생성할 수 있도록 하는 학문 분야
+
+
+
+- 자연어이해 natural language understanding , NLU : 문자로 된 언어를 입력으로 받아 목적에 맞게 내부에서 처리하는 과정
+
+
+
+- 자연어생성 natural language generation , NLG : 주어진 수치 등의 정보를 바탕으로 문장을 생성하여 사용자에게 자연어를 응답을 돌려주는 과정
+
+
+
+### 1.2 자연어처리의 응용 분야
+
+
+
